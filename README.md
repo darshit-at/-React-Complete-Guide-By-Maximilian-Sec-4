@@ -1,2 +1,2 @@
 # -React-Complete-Guide-By-Maximilian-Sec-4
-pass data child components to parent components
+pass data from child components to parent components
